@@ -7,37 +7,18 @@ up:: [[Home|Home]]
 tags:: #atlas/MOC🗺
 
 # Library
-Navigate your library of maps with a classification system made for PKM. 
-
-### The LYT Classification System
-While I encourage you to fully customize your **home** note, I urge you to start building your library using the **LYT Classification System**. 
-
-The **LYT Classification System** is lightly modified from the Cutter, Dewey, and Universal Decimal classification systems used in libraries around the world. It will provide you a time-tested foundation as you structure the interests of your digital library.
-
-| Section | Description                                       |
-| ------- | ------------------------------------------------- |
-| 000     | Knowledge Management                              | 
-| 100     | Personal Management                               |
-| 200     | Philosophy & Psychology; Spirituality & Religion  |
-| 300     | Social Sciences                                   |
-| 400     | Communications & Rhetoric; Language & Linguistics |
-| 500     | Natural Sciences                                  |
-| 600     | Applied Sciences                                  |
-| 700     | Art & Recreation                                  |
-| 800     | Literature                                        |
-| 900     | History & Biography & Geography                   |
+This is a map of everything I externalized. My lowly thought may come handy for something in the future.
 
 ---
-
 ## 000 - Knowledge Management
-The [[100 Atlas/MOCs/My PKM MOC|My PKM MOC]] shows the best practices of knowledge management. I use the [[LYT Kit|LYT Kit]] to show the power of linked thinking and to empower others to develop their thinking. The [[Mapping MOCs|Mapping MOCs]] is my personal note to wrap my head around the wondrous beauty that MOCs offer. Others include:
+The [PKM MOC]] different way of managing knowledge. Others include:
 
-- [[Knowledge and memory MOC|Knowledge and memory MOC]]
+
 
 ## 100 - Personal Management
-The [[100 Atlas/MOCs/Thinking|Thinking]] MOC can galvanize my attention; the [[100 Atlas/MOCs/Concepts MOC|Concepts MOC]] can flavor it; and the [[Habits MOC|Habits MOC]] speaks about how to direct it. Go to [[500 Spaces/1 - Life/• MOCs/Life Space™|Life Space™]] to see the [[Virtue List|Virtue List]] and more.
+The [[100 Atlas/MOCs/Thinking|Thinking]] MOC can galvanize my attention; the [[100 Atlas/Scopes/Concepts MOC|Concepts MOC]] can flavor it; and the [[Habits MOC|Habits MOC]] speaks about how to direct it. Go to [[500 Spaces/1 - Life/Life Space™|Life Space™]] to see the [[Virtue List|Virtue List]] and more.
 
-Others: [[Posture MOC|Posture MOC]] and [[Hormesis MOC|Hormesis MOC]] and [[Breathing Exercises MOC|Breathing Exercises MOC]].
+
 
 ## 200 - Philosophy 🤔, Psychology 🧠; Spirituality 🙏 , Religion ㊪
 Is there no limit to this section? I use [[100 Atlas/MOCs/Philosophy MOC|Philosophy MOC]] as the big note and then point to things like: [[Stoicism MOC|Stoicism MOC]], [[Confucianism MOC|Confucianism MOC]], [[Religion MOC|Religion MOC]], [[Taoism MOC|Taoism MOC]], and whatever else comes up.
@@ -58,7 +39,7 @@ A fun section of the library, the 400s contains the underrated and oft-maligned 
 See also: [[100 Atlas/MOCs/Library/Com Studies MOC|Com Studies MOC]] | [[100 Atlas/MOCs/Library/Linguistics MOC|Linguistics MOC]] | [[Commonplace MOC|Commonplace MOC]] | [[100 Atlas/MOCs/Library/Wisdom MOC|Wisdom MOC]]
 
 ## 500 - Natural Sciences
-A sharp break from the previous section, the 500s explores the natural world and universe in glorious notes like [[Cosmology MOC|Cosmology MOC]] and [[Math MOC|Math MOC]]. 
+The 500s explores the natural world and universe in glorious notes like [[Cosmology MOC|Cosmology MOC]] and [[Math MOC|Math MOC]]. 
 
 See also: Chemistry | Geology | Plants | Animals | [[100 Atlas/MOCs/Library/Mathematics MOC|Mathematics MOC]]
 
@@ -68,7 +49,7 @@ A natural progression from the previous section, this is where we take the funda
 See also: [[100 Atlas/MOCs/Library/Engineering MOC|Engineering MOC]] | Agriculture | Technology | Medical | [[100 Atlas/MOCs/Library/AI MOC|AI MOC]] | [[100 Atlas/MOCs/Library/Collective Intelligence MOC|Collective Intelligence MOC]] | [[Genetics MOC|Genetics MOC]] | [[100 Atlas/MOCs/Library/Systems MOC|Systems MOC]] | [[100 Atlas/MOCs/Library/Comp Science MOC|Comp Science MOC]]
 
 ## 700 - Art & Recreation
-Ah the leisures of life. Remember leisure? Few really do. This section could easily balloon. 
+
 - Art MOC | [[Design MOC|Design MOC]] | Architecture | Painting | 
 - Film & TV | [[Movies MOC|Movies MOC]] 
 - Sports | [[Football MOC|Football MOC]] 
@@ -77,14 +58,9 @@ Ah the leisures of life. Remember leisure? Few really do. This section could eas
 - `#source/movie🎬` | `#source/tv🎬` | `#source/music🎵` 
 
 ## 800 - Literature
-If folks barely remember leisure, they likely completely forgot about classical literature. A great shame, neomania...we blind ourselves to some of humanity's greatest hits. Use [[Literature MOC|Literature MOC]] as a launchpad.
+
 
 ## 900 - History & Biography & Geography
 I've noticed I'm naturally building up the [[Ancient Greece MOC|Ancient Greece MOC]], but I haven't cared to build out the [[100 Atlas/MOCs/Library/History MOC|History MOC]] just yet. The [[100 Atlas/MOCs/Library/Places MOC|Places MOC]] is a peculiarly powerful note that has big things in store for it.
 
 The [[Art & Science Storytelling MOC|Art & Science Storytelling MOC]] look at some great storytellers of history. 
-
----
-
-## Commentary
-Please don't go overboard with numbering things. We’re just using a basic pre-made map as a fixed *spatial constellation* upon which to easily add dots of new interests. Too much structure stifles innovation and organic, emergent growth.
