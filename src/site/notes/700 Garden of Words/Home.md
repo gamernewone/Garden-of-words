@@ -5,7 +5,7 @@
 
 # Welcome to the show
 
-Hi, welcome to my website. I’m Rich, a software engineer studying in Ghana.
+Hi, welcome to my website. I’m Rich, an aspiring software engineer studying in Ghana.
 
 # Comp Sci (ATU) Portal
 
