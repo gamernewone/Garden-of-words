@@ -7,10 +7,9 @@
 
 Those are my notes on computer science, please yourself to read and submit feedback if you find any mistake
 
-| Course | Resources                |
-| ------ | ------------------------ |
-| 001    | [[700 Garden of Words/CPS 100/STA 101|STA 101]]              |
-| 002    | [[700 Garden of Words/CPS 100/CS Discrete math|CS Discrete math]]     |
-| 003    | [[700 Garden of Words/CPS 100/CS Hardware|CS Hardware]]          |
-| 004    | [[700 Garden of Words/CPS 100/CS OOP Java|CS OOP Java]] |
-| 005       | [[700 Garden of Words/CPS 100/CS Com skills|CS Com skills]]                         |
+
+- 001:    [[700 Garden of Words/CPS 100/STA 101|STA 101]]              
+- 002:    [[700 Garden of Words/CPS 100/CS Discrete math|CS Discrete math]]     
+- 003:    [[700 Garden of Words/CPS 100/CS Hardware|CS Hardware]]          
+- 004:    [[700 Garden of Words/CPS 100/CS OOP Java|CS OOP Java]] 
+- 005:    [[700 Garden of Words/CPS 100/CS Com skills|CS Com skills]]                         
