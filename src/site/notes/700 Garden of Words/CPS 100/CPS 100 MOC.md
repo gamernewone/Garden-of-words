@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/700-garden-of-words/cps-100/cps-100-moc/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/700-garden-of-words/cps-100/cps-100-moc/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
 
+up:: [[700 Garden of Words/Home| Home]]
 # Computer Science Level 100 MOC
 
 Those are my notes on computer science, please yourself to read and submit feedback if you find any mistake
