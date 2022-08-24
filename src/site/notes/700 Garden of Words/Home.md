@@ -5,10 +5,8 @@
 
 # Welcome to the show
 
-Hi, welcome to my website. I’m Rich, a software engineer working in ghana
+Hi, welcome to my website. I’m Rich, a software engineer studying in Ghana.
 
-## Basics Concepts
+# Comp Sci (ATU) Portal
 
-- [[300 Permanent notes/202205111211 Einstellung effect|Einstellung]]
-- [[300 Permanent notes/202205130051 Minimalism|Minimalism]]
-- [[100 Atlas/+ Library|+ Library]]
+Dear colleagues from CPS 100, go there: [[700 Garden of Words/CPS 100/CPS 100 MOC|CPS 100 MOC]]
