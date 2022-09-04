@@ -3,4 +3,4 @@
 ---
 
 
-up:: [[700 Garden of Words/CPS 100/CPS 100 MOC|Computer Science MOC]]
+up:: [[700 Garden of Words/CPS 100/CPS  MOC|Computer Science MOC]]
