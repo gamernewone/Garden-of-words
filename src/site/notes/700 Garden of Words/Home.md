@@ -1,12 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/700-garden-of-words/home/","tags":"gardenEntry","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/700-garden-of-words/home/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
-# Welcome to the show
+# Ridy’s Digital Garden 
 
-Hi, welcome to my website. I’m Rich, an aspiring software engineer studying in Ghana.
+Hi, How the hell did you end up here. Anyway, I’m Ridy, a computer science student currently living in Ghana. I created this garden to experience the practice of [[learning in public|learning in public]]. 
 
-# Comp Sci (ATU) Portal
+Feel free to explore 🫡.
 
-Dear colleagues from CPS 100, go there: [[700 Garden of Words/CPS 100/CPS  MOC|CPS  MOC]]
+## Comp Sci (ATU) Portal
+
+Dear colleagues from ATU go there: [[700 Garden of Words/CPS 100/CPS  MOC|CPS]]
