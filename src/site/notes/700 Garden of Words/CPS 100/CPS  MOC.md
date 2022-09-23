@@ -3,7 +3,7 @@
 ---
 
 
-up:: [[700 Garden of Words/Home|Home]]
+up:: [[700 Garden of Words/Home|Garden Home]]
 
 # Computer Science ATU MOC
 
