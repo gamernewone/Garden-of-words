@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/700-garden-of-words/home/","tags":"gardenEntry","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/700-garden-of-words/home/","tags":"gardenEntry","dgHomeLink":false,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # Ridy’s Digital Garden 
@@ -18,5 +18,3 @@ The art of making computer programs, see [[The software engineer roadmap|The sof
 ### Computer science
 
 Computation overload [[700 Garden of Words/Comp Sci/Comp Sci|Comp Sci]].
-
-Dear colleagues from ATU go there: [[700 Garden of Words/CPS 100/CPS  MOC|CPS]]
