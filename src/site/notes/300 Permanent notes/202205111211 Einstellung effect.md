@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/300-permanent-notes/202205111211-einstellung-effect/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/300-permanent-notes/202205111211-einstellung-effect/"}
 ---
 
 **Title:** Einstellung effect
